@@ -14,6 +14,6 @@ Dictionary.pfd
 2D.ps
 3D.ps
 4D.ps
-Rénder.exe
+Render.exe
 Setting.words
 Huongdan.pfd 
